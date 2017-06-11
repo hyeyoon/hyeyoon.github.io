@@ -65,9 +65,6 @@ body {
 }
 
 .bs-docs-footer {
-    padding-top: 50px;
-    padding-bottom: 50px;
-    margin-top: 100px;
     color: #99979c;
     background-color: #2a2730;
 }
@@ -204,7 +201,7 @@ section {
     border: 1px solid #eee;
     border-left-width: 5px;
     border-radius: 3px;
-    border-left-color: #787EBC;
+    border-left-color: #397adb;
     width: 105%;
 }
 
@@ -242,7 +239,7 @@ section {
 }
 
 .bs-callout-ex h3 {
-    color: #787EBC;
+    color: #397adb;
 }
 
 .img-circle {
@@ -291,7 +288,15 @@ section {
   position:relative;
 }
 
-
+.thumbnail2 {
+  display: block;
+  padding: 30px;
+  margin-bottom: 20px;
+  line-height: 1.42857143;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
 
 
 /* the important styles */
@@ -438,5 +443,5 @@ border-color: #111 transparent transparent transparent;
 }
 
 .progress-bar-sass {
-  background-color: #b37399;
+  background-color: #e98db8 !important;
 }
