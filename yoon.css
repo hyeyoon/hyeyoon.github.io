@@ -126,7 +126,7 @@ header .header-content .header-content-inner p {
 		}
 		header {
             min-height: 100%;
-            background-image: url('/images/third.png');
+            background-image: url('./images/third.png');
         }
 }
 
